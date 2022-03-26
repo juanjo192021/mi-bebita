@@ -1,0 +1,30 @@
+body{
+    background-color: #ffb4a2;
+}
+h1{
+    color: #6d6875;
+    text-align: center;
+    font-size: 14px;
+}
+#primeraFoto{
+    margin: 20px 0;
+}
+#segundaFoto{
+    margin: 20px 0;
+}
+
+#foto_1{
+    width: 85%;
+    margin-left: 20px;
+}
+#foto_2{
+    width: 85%;
+    margin-left: 20px;
+}
+video{
+    width: 90%;
+}
+#contenedorVideo{
+    margin: 20px 0;
+    text-align: center;
+}
